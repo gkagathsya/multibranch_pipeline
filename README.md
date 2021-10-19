@@ -1,2 +1,2 @@
-# multibranch_pipeline
-jenkins setup using multibranch pipeline
+# multibranch-pipeline-demo
+Jenkins Multibranch Pipeline Example Repo 
